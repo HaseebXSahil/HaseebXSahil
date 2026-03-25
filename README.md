@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Developer | API Builder | Telegram Bot Maker</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&lines=Welcome+To+My+GitHub+Profile;API+Developer;Telegram+Bot+Maker;Always+Learning+New+Tech" />
+  <img src="https://raw.githubusercontent.com/HaseebXSahil/HaseebXSahil/main/banner.png" />
 </p>
 
 ---
