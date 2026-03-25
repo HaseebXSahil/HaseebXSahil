@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋 I'm Haseeb Sahil
 
-<!--
-**HaseebXSahil/HaseebXSahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Developer & Programmer  
+🤖 Telegram Bot Maker  
+⚡ API Builder  
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- I love building APIs and Telegram bots
+- Learning new technologies
+- Passionate about coding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Languages & Tools
+- Python
+- JavaScript
+- GitHub
+- APIs
+
+## 🌐 Connect With Me
+Telegram: https://t.me/hsmodzofc2
